@@ -4,4 +4,5 @@
 ~~dojyaan~~
 **this texst _is_ important**
 <sub>hey hey </sub>
-[youtube.com](https://www.youtube.com/)
+[youtube](https://www.youtube.com/)
+![This is an image](https://tr.pinterest.com/pin/592504894742311780/)
